@@ -1,3 +1,3 @@
 # pics
 
-`https://cdn.jsdelivr.net/gh/kKsk03/pics/` + path
+`https://pics-a1c.pages.dev/` + path
